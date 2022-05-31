@@ -1,7 +1,7 @@
-# https://ashleyjm-k.github.io/
+## https://ashleyjm-k.github.io/
 
-## About
+# About
 My portfolio website to host my work, projects and contact information.
 
-# Note:
+### Note:
 To head to the home page, or to another section click the X in the right top corner of each informational box.
